@@ -21,9 +21,11 @@ This project's data was gathered through the scraping of several e-commerce webs
 
 ![image](https://github.com/user-attachments/assets/852611da-3349-40e1-bca0-817dac70a7b9)
 
+
 ## Glipse Of Project Webpage
 
 ![Screenshot (856)](https://github.com/user-attachments/assets/3d9d7f52-93ff-4118-b99e-6259f26524ee)
+
 
 
 ## Dataset Visualization using Tableau
